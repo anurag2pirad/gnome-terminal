@@ -12,7 +12,7 @@ In other distros you'll need to dig around to find it, search your repositories 
 
 After installing dconf, you can clone this repository to your machine.
 
-    $ git clone https://github.com/dracula/gnome-terminal
+    $ git clone https://github.com/anurag2pirad/gnome-terminal
     $ cd gnome-terminal
 
 Then you can run the installation script:
